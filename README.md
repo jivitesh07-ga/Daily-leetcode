@@ -62,4 +62,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0540-single-element-in-a-sorted-array](https://github.com/jivitesh07-ga/https-github.com-jivitesh07-ga-Daily-leetcode/tree/master/0540-single-element-in-a-sorted-array) |
+## Math
+|  |
+| ------- |
+| [0390-elimination-game](https://github.com/jivitesh07-ga/https-github.com-jivitesh07-ga-Daily-leetcode/tree/master/0390-elimination-game) |
+## Recursion
+|  |
+| ------- |
+| [0390-elimination-game](https://github.com/jivitesh07-ga/https-github.com-jivitesh07-ga-Daily-leetcode/tree/master/0390-elimination-game) |
 <!---LeetCode Topics End-->
