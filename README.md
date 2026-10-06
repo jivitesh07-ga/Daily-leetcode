@@ -39,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0567-permutation-in-string](https://github.com/jivitesh07-ga/https-github.com-jivitesh07-ga-Daily-leetcode/tree/master/0567-permutation-in-string) |
 | [0678-valid-parenthesis-string](https://github.com/jivitesh07-ga/https-github.com-jivitesh07-ga-Daily-leetcode/tree/master/0678-valid-parenthesis-string) |
 | [0856-score-of-parentheses](https://github.com/jivitesh07-ga/https-github.com-jivitesh07-ga-Daily-leetcode/tree/master/0856-score-of-parentheses) |
+| [0921-minimum-add-to-make-parentheses-valid](https://github.com/jivitesh07-ga/https-github.com-jivitesh07-ga-Daily-leetcode/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 ## Sliding Window
 |  |
 | ------- |
@@ -84,6 +85,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0042-trapping-rain-water](https://github.com/jivitesh07-ga/https-github.com-jivitesh07-ga-Daily-leetcode/tree/master/0042-trapping-rain-water) |
 | [0678-valid-parenthesis-string](https://github.com/jivitesh07-ga/https-github.com-jivitesh07-ga-Daily-leetcode/tree/master/0678-valid-parenthesis-string) |
 | [0856-score-of-parentheses](https://github.com/jivitesh07-ga/https-github.com-jivitesh07-ga-Daily-leetcode/tree/master/0856-score-of-parentheses) |
+| [0921-minimum-add-to-make-parentheses-valid](https://github.com/jivitesh07-ga/https-github.com-jivitesh07-ga-Daily-leetcode/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 ## Monotonic Stack
 |  |
 | ------- |
@@ -93,9 +95,11 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0011-container-with-most-water](https://github.com/jivitesh07-ga/https-github.com-jivitesh07-ga-Daily-leetcode/tree/master/0011-container-with-most-water) |
 | [0678-valid-parenthesis-string](https://github.com/jivitesh07-ga/https-github.com-jivitesh07-ga-Daily-leetcode/tree/master/0678-valid-parenthesis-string) |
+| [0921-minimum-add-to-make-parentheses-valid](https://github.com/jivitesh07-ga/https-github.com-jivitesh07-ga-Daily-leetcode/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 ## Bracket Sequences
 |  |
 | ------- |
 | [0678-valid-parenthesis-string](https://github.com/jivitesh07-ga/https-github.com-jivitesh07-ga-Daily-leetcode/tree/master/0678-valid-parenthesis-string) |
 | [0856-score-of-parentheses](https://github.com/jivitesh07-ga/https-github.com-jivitesh07-ga-Daily-leetcode/tree/master/0856-score-of-parentheses) |
+| [0921-minimum-add-to-make-parentheses-valid](https://github.com/jivitesh07-ga/https-github.com-jivitesh07-ga-Daily-leetcode/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 <!---LeetCode Topics End-->
