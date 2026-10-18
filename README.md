@@ -40,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0567-permutation-in-string](https://github.com/jivitesh07-ga/https-github.com-jivitesh07-ga-Daily-leetcode/tree/master/0567-permutation-in-string) |
 | [0678-valid-parenthesis-string](https://github.com/jivitesh07-ga/https-github.com-jivitesh07-ga-Daily-leetcode/tree/master/0678-valid-parenthesis-string) |
 | [0709-to-lower-case](https://github.com/jivitesh07-ga/https-github.com-jivitesh07-ga-Daily-leetcode/tree/master/0709-to-lower-case) |
+| [0796-rotate-string](https://github.com/jivitesh07-ga/https-github.com-jivitesh07-ga-Daily-leetcode/tree/master/0796-rotate-string) |
 | [0856-score-of-parentheses](https://github.com/jivitesh07-ga/https-github.com-jivitesh07-ga-Daily-leetcode/tree/master/0856-score-of-parentheses) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/jivitesh07-ga/https-github.com-jivitesh07-ga-Daily-leetcode/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1021-remove-outermost-parentheses](https://github.com/jivitesh07-ga/https-github.com-jivitesh07-ga-Daily-leetcode/tree/master/1021-remove-outermost-parentheses) |
@@ -132,4 +133,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0319-bulb-switcher](https://github.com/jivitesh07-ga/https-github.com-jivitesh07-ga-Daily-leetcode/tree/master/0319-bulb-switcher) |
+## String Matching
+|  |
+| ------- |
+| [0796-rotate-string](https://github.com/jivitesh07-ga/https-github.com-jivitesh07-ga-Daily-leetcode/tree/master/0796-rotate-string) |
 <!---LeetCode Topics End-->
