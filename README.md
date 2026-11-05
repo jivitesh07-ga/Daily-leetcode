@@ -160,5 +160,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0183-customers-who-never-order](https://github.com/jivitesh07-ga/https-github.com-jivitesh07-ga-Daily-leetcode/tree/master/0183-customers-who-never-order) |
 | [0511-game-play-analysis-i](https://github.com/jivitesh07-ga/https-github.com-jivitesh07-ga-Daily-leetcode/tree/master/0511-game-play-analysis-i) |
 | [0627-swap-sex-of-employees](https://github.com/jivitesh07-ga/https-github.com-jivitesh07-ga-Daily-leetcode/tree/master/0627-swap-sex-of-employees) |
+| [1148-article-views-i](https://github.com/jivitesh07-ga/https-github.com-jivitesh07-ga-Daily-leetcode/tree/master/1148-article-views-i) |
 | [1527-patients-with-a-condition](https://github.com/jivitesh07-ga/https-github.com-jivitesh07-ga-Daily-leetcode/tree/master/1527-patients-with-a-condition) |
 <!---LeetCode Topics End-->
