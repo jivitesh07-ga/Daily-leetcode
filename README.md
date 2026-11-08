@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0011-container-with-most-water](https://github.com/jivitesh07-ga/https-github.com-jivitesh07-ga-Daily-leetcode/tree/master/0011-container-with-most-water) |
 | [0042-trapping-rain-water](https://github.com/jivitesh07-ga/https-github.com-jivitesh07-ga-Daily-leetcode/tree/master/0042-trapping-rain-water) |
 | [0053-maximum-subarray](https://github.com/jivitesh07-ga/https-github.com-jivitesh07-ga-Daily-leetcode/tree/master/0053-maximum-subarray) |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/jivitesh07-ga/https-github.com-jivitesh07-ga-Daily-leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0128-longest-consecutive-sequence](https://github.com/jivitesh07-ga/https-github.com-jivitesh07-ga-Daily-leetcode/tree/master/0128-longest-consecutive-sequence) |
 | [0217-contains-duplicate](https://github.com/jivitesh07-ga/https-github.com-jivitesh07-ga-Daily-leetcode/tree/master/0217-contains-duplicate) |
 | [0540-single-element-in-a-sorted-array](https://github.com/jivitesh07-ga/https-github.com-jivitesh07-ga-Daily-leetcode/tree/master/0540-single-element-in-a-sorted-array) |
@@ -62,6 +63,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0010-regular-expression-matching](https://github.com/jivitesh07-ga/https-github.com-jivitesh07-ga-Daily-leetcode/tree/master/0010-regular-expression-matching) |
 | [0042-trapping-rain-water](https://github.com/jivitesh07-ga/https-github.com-jivitesh07-ga-Daily-leetcode/tree/master/0042-trapping-rain-water) |
 | [0053-maximum-subarray](https://github.com/jivitesh07-ga/https-github.com-jivitesh07-ga-Daily-leetcode/tree/master/0053-maximum-subarray) |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/jivitesh07-ga/https-github.com-jivitesh07-ga-Daily-leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0678-valid-parenthesis-string](https://github.com/jivitesh07-ga/https-github.com-jivitesh07-ga-Daily-leetcode/tree/master/0678-valid-parenthesis-string) |
 | [2571-minimum-operations-to-reduce-an-integer-to-0](https://github.com/jivitesh07-ga/https-github.com-jivitesh07-ga-Daily-leetcode/tree/master/2571-minimum-operations-to-reduce-an-integer-to-0) |
 ## Linked List
